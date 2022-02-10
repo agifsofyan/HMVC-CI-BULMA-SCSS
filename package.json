@@ -27,7 +27,7 @@
   "homepage": "https://github.com/figa-Oz/HMVC-CI-BULMA-SCSS.git#readme",
   "devDependencies": {
     "bulma": "^0.7.2",
-    "node-sass": "^4.11.0"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "bulma-extensions": "^4.0.0"
